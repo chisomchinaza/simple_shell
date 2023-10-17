@@ -26,9 +26,6 @@ main(void)
 	printf("%s\n", str_array);
 
 	str_array= strtok(NULL, delim);
-	printf("%s\n", str_array);
-
-	str_array= strtok(NULL, delim);
 	if (str_array ==NULL)
 	{
 		printf("the end");
