@@ -1,8 +1,8 @@
 #include "shell.h"
 /**
-* _printfs - out char
-* @stringers: put string
-* Return:  integer num
+* _printfs - out charsssssssssssssssssssssssssssss
+* @stringers: putssss strings
+* Return:  integessssr numssss
 */
 int _printfs(const char *stringers)
 {

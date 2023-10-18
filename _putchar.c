@@ -1,9 +1,9 @@
 #include "shell.h"
 #include <unistd.h>
 /**
-* _putchar - out
+* _putchar - outsssss
 * @characterss:  characterss
-* Return: integers
+* Return: integerssss
 */
 int _putchar(char characterss)
 {

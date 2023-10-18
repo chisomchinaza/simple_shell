@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
-* _envprinter - stdout envs
-* @env: variables from enviroment
+* _envprinter - stdout envsssss
+* @env: varim enviromentssssssssss
 */
 void _envprinter(char **env)
 {
