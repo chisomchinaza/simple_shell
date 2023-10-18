@@ -2,9 +2,9 @@
 /**
 * main -  program
 * @argc:  being passed to the sytem
-* @argv: argument
-* @env: variables
-* Return:  integer
+* @argv: argumentsss
+* @env: variabless
+* Return:  integersss
 */
 int main(int argc, char *argv[], char **env)
 {

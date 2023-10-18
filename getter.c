@@ -1,9 +1,9 @@
 #include "shell.h"
 /**
 * getter - read input
-* @bufs: use in storing read input
-* @siss: buffer size
-* Return: integer
+* @bufs: read input
+* @siss: ffer sizes
+* Return: integer numbers
 */
 ssize_t getter(char **bufs, size_t *siss)
 {

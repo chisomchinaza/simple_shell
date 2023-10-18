@@ -1,7 +1,7 @@
 #include "shell.h"
 /**
  * _exectutor_printer - process
- * @cmdliner: exected
+ * @cmdliner: exected comm
  */
 void _executor_printer(const char *cmdliner);
 void _exectutor_printer(const char *cmdliner)
